@@ -1,0 +1,31 @@
+.nav {
+    text-align: center;
+    /* margin-top: 5px; */
+    background-color: black;
+}
+
+.img {
+    width: 20px;
+}
+
+.body {
+    background-image: url(../assets/cancha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: scale-down;
+}
+
+.item {
+    color: white;
+    margin-right: 100px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-left: 50px;
+}
